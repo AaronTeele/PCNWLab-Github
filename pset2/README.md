@@ -214,15 +214,7 @@ Insert about me
 ### Aaron Teele
 <img src='images/AaronTeele.jpg' width='150'>
 
-function nerd() {
-    while (life) {
-        family(),
-        code(),
-        gaming(),
-        anime(), 
-        laugh++, 
-        };
-    };
+function nerd() {while (life) {family(), code(), gaming(), anime(), laugh++,};};  nerd();
 
 ---
 ### Van Tran
